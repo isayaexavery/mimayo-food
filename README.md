@@ -1,8 +1,22 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Mimayo Food is a project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Mimayo Food
 
-First, run the development server:
+Welcome to Mimayo Food, a delightful web application that brings food enthusiasts together to explore, share, and savor culinary experiences. This application is built using  [Next.js](https://nextjs.org/) for a fast and efficient user experience, and Tailwind CSS for a sleek and responsive design.
+
+## Getting started
+To run the Mimayo-Foodie web app locally, follow these steps:
+
+# 1. Clone the repository
+
+```https://github.com/isayaexavery/mimayo-food.git```
+
+# 2. Install dependancies
+
+```cd mimayo-food```
+```npm install```
+
+# 3. Run the Development Server:
 
 ```bash
 npm run dev
@@ -12,23 +26,15 @@ yarn dev
 pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
+# 1. Browse Delicious Recipes
+Explore a wide range of mouthwatering recipes curated by food enthusiasts. Filter recipes by cuisine, ingredients, and difficulty level.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+# 2. Responsive Design
+The application is designed to provide an optimal user experience across various devices. Whether you're on a desktop, tablet, or smartphone, Mimayo Food adapts seamlessly.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Tech Stack
+**Frontend Framework:**  Next.js <br>
+**CSS Framework:** Tailwind CSS
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Happy cooking!
